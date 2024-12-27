@@ -49,11 +49,11 @@ cmake_ninja_workdir = /Applications/Desktop/LeetCode/cmake-build-debug/
 
 build cmake_object_order_depends_target_MyProject: phony || .
 
-build CMakeFiles/MyProject.dir/1929.Concatenation_of_Array/main.cpp.o: CXX_COMPILER__MyProject_unscanned_Debug /Applications/Desktop/LeetCode/1929.Concatenation$ of$ Array/main.cpp || cmake_object_order_depends_target_MyProject
-  DEP_FILE = CMakeFiles/MyProject.dir/1929.Concatenation_of_Array/main.cpp.o.d
-  FLAGS = -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+build CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o: CXX_COMPILER__MyProject_unscanned_Debug /Applications/Desktop/LeetCode/1930.$ Build$ Array$ from$ Permutation/main.cpp || cmake_object_order_depends_target_MyProject
+  DEP_FILE = CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/MyProject.dir
-  OBJECT_FILE_DIR = CMakeFiles/MyProject.dir/1929.Concatenation_of_Array
+  OBJECT_FILE_DIR = CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/MyProject.dir/1929.Concatenation_of_Array/main.cpp.o: CXX_COMPI
 #############################################
 # Link the executable MyProject
 
-build MyProject: CXX_EXECUTABLE_LINKER__MyProject_Debug CMakeFiles/MyProject.dir/1929.Concatenation_of_Array/main.cpp.o
+build MyProject: CXX_EXECUTABLE_LINKER__MyProject_Debug CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
   OBJECT_DIR = CMakeFiles/MyProject.dir
   POST_BUILD = :

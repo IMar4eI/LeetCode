@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.15)  # Указываем минимальную версию CMake
-project(MyProject)                    # Название проекта
+cmake_minimum_required(VERSION 3.15)
+project(MyProject)                    #
 
-set(CMAKE_CXX_STANDARD 11)            # Указываем стандарт C++
-add_executable(MyProject "1929.Concatenation of Array/main.cpp")    # Указываем главный файл проекта
+set(CMAKE_CXX_STANDARD 17)
+add_executable(MyProject "1930. Build Array from Permutation/main.cpp")    #

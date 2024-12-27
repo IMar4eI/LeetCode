@@ -1,6 +1,21 @@
 # ninja log v6
-1	67	1735311440047832709	build.ninja	518b7f958f826e88
-1	324	1735311440061367944	CMakeFiles/MyProject.dir/1929.Concatenation_of_Array/main.cpp.o	3327c34ec9bf0ea8
-326	366	1735311440386543511	MyProject	e4741f1cc3b66bdb
+1	67	1735312509131214667	build.ninja	518b7f958f826e88
 2	328	1735311451780022440	CMakeFiles/MyProject.dir/1929.Concatenation_of_Array/main.cpp.o	3327c34ec9bf0ea8
-328	376	1735311452105413993	MyProject	e4741f1cc3b66bdb
+326	373	1735312485896919975	MyProject	1a382a7d3c4afc8f
+2	326	1735312485572739735	CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o	a38348d438e2efd4
+3	379	1735312517235082386	CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o	8159be79a7c3b31e
+379	436	1735312517611727220	MyProject	1a382a7d3c4afc8f
+2	343	1735312741027414856	CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o	8159be79a7c3b31e
+343	383	1735312741368776185	MyProject	1a382a7d3c4afc8f
+2	348	1735312771167530980	CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o	8159be79a7c3b31e
+348	389	1735312771513449430	MyProject	1a382a7d3c4afc8f
+3	367	1735312833919294196	CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o	8159be79a7c3b31e
+367	414	1735312834283590729	MyProject	1a382a7d3c4afc8f
+2	354	1735313079973664248	CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o	8159be79a7c3b31e
+354	394	1735313080324992261	MyProject	1a382a7d3c4afc8f
+3	337	1735313096165245539	CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o	8159be79a7c3b31e
+338	376	1735313096499805887	MyProject	1a382a7d3c4afc8f
+2	432	1735313333381615435	CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o	8159be79a7c3b31e
+432	472	1735313333811319752	MyProject	1a382a7d3c4afc8f
+5	359	1735313354650160863	CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o	8159be79a7c3b31e
+359	405	1735313355004396271	MyProject	1a382a7d3c4afc8f
