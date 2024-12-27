@@ -1,0 +1,74 @@
+# Ignore build artifacts
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+*.app
+
+# Ignore CMake build folders
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore CLion and JetBrains IDEs
+.idea/
+*.iml
+
+# Ignore Visual Studio files
+.vscode/
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.pdb
+*.sln
+*.suo
+*.ipch
+*.opensdf
+*.tlog
+*.lastbuildstate
+*.log
+*.obj
+*.pch
+*.idb
+*.ilk
+*.exp
+
+# Ignore Xcode files
+*.xcworkspace
+*.xcuserdata/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/*.pbxuser
+*.xcodeproj/*.mode1v3
+*.xcodeproj/*.mode2v3
+*.xcodeproj/*.perspectivev3
+*.xcodeproj/xcshareddata/
+*.xcodeproj/xcuserdata/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore temporary or backup files
+*.swp
+*.tmp
+*.temp
+*.~*
+*.bak
+
+# Ignore debugging files
+*.log
+*.dSYM/
+
+# Ignore compiled files or directories
+build/
+bin/
+lib/
+
+# Ignore cache files
+.cache
+*.cmake

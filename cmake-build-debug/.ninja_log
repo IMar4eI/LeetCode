@@ -1,0 +1,6 @@
+# ninja log v6
+1	67	1735311440047832709	build.ninja	518b7f958f826e88
+1	324	1735311440061367944	CMakeFiles/MyProject.dir/1929.Concatenation_of_Array/main.cpp.o	3327c34ec9bf0ea8
+326	366	1735311440386543511	MyProject	e4741f1cc3b66bdb
+2	328	1735311451780022440	CMakeFiles/MyProject.dir/1929.Concatenation_of_Array/main.cpp.o	3327c34ec9bf0ea8
+328	376	1735311452105413993	MyProject	e4741f1cc3b66bdb
