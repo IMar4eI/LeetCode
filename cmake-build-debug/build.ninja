@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: MyProject
+# Project: LeetCode
 # Configurations: Debug
 # =============================================================================
 
@@ -41,35 +41,35 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /Applications/Desktop/LeetCode/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target MyProject
+# Object build statements for EXECUTABLE target LeetCode
 
 
 #############################################
-# Order-only phony target for MyProject
+# Order-only phony target for LeetCode
 
-build cmake_object_order_depends_target_MyProject: phony || .
+build cmake_object_order_depends_target_LeetCode: phony || .
 
-build CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o: CXX_COMPILER__MyProject_unscanned_Debug /Applications/Desktop/LeetCode/1930.$ Build$ Array$ from$ Permutation/main.cpp || cmake_object_order_depends_target_MyProject
-  DEP_FILE = CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o.d
+build CMakeFiles/LeetCode.dir/1470._Shuffle_the_Array/main.cpp.o: CXX_COMPILER__LeetCode_unscanned_Debug /Applications/Desktop/LeetCode/1470.$ Shuffle$ the$ Array/main.cpp || cmake_object_order_depends_target_LeetCode
+  DEP_FILE = CMakeFiles/LeetCode.dir/1470._Shuffle_the_Array/main.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/MyProject.dir
-  OBJECT_FILE_DIR = CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation
+  OBJECT_DIR = CMakeFiles/LeetCode.dir
+  OBJECT_FILE_DIR = CMakeFiles/LeetCode.dir/1470._Shuffle_the_Array
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target MyProject
+# Link build statements for EXECUTABLE target LeetCode
 
 
 #############################################
-# Link the executable MyProject
+# Link the executable LeetCode
 
-build MyProject: CXX_EXECUTABLE_LINKER__MyProject_Debug CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o
+build LeetCode: CXX_EXECUTABLE_LINKER__LeetCode_Debug CMakeFiles/LeetCode.dir/1470._Shuffle_the_Array/main.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
-  OBJECT_DIR = CMakeFiles/MyProject.dir
+  OBJECT_DIR = CMakeFiles/LeetCode.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = MyProject
-  TARGET_PDB = MyProject.dbg
+  TARGET_FILE = LeetCode
+  TARGET_PDB = LeetCode.dbg
 
 
 #############################################
@@ -105,7 +105,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Applications/Desktop/LeetCode/cmake-build-debug
 
-build all: phony MyProject
+build all: phony LeetCode
 
 # =============================================================================
 # Built-in targets
