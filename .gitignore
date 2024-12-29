@@ -68,6 +68,7 @@ Makefile
 build/
 bin/
 lib/
+cmake-build-debug/
 
 # Ignore cache files
 .cache

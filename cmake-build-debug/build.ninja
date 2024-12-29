@@ -49,11 +49,11 @@ cmake_ninja_workdir = /Applications/Desktop/LeetCode/cmake-build-debug/
 
 build cmake_object_order_depends_target_LeetCode: phony || .
 
-build CMakeFiles/LeetCode.dir/2433._Find_The_Original_Array_of_Prefix/main.cpp.o: CXX_COMPILER__LeetCode_unscanned_Debug /Applications/Desktop/LeetCode/2433.$ Find$ The$ Original$ Array$ of$ Prefix/main.cpp || cmake_object_order_depends_target_LeetCode
-  DEP_FILE = CMakeFiles/LeetCode.dir/2433._Find_The_Original_Array_of_Prefix/main.cpp.o.d
+build CMakeFiles/LeetCode.dir/2942._Find_Words_Containing_Character/main.cpp.o: CXX_COMPILER__LeetCode_unscanned_Debug /Applications/Desktop/LeetCode/2942.$ Find$ Words$ Containing$ Character/main.cpp || cmake_object_order_depends_target_LeetCode
+  DEP_FILE = CMakeFiles/LeetCode.dir/2942._Find_Words_Containing_Character/main.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/LeetCode.dir
-  OBJECT_FILE_DIR = CMakeFiles/LeetCode.dir/2433._Find_The_Original_Array_of_Prefix
+  OBJECT_FILE_DIR = CMakeFiles/LeetCode.dir/2942._Find_Words_Containing_Character
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/LeetCode.dir/2433._Find_The_Original_Array_of_Prefix/main.cpp.o
 #############################################
 # Link the executable LeetCode
 
-build LeetCode: CXX_EXECUTABLE_LINKER__LeetCode_Debug CMakeFiles/LeetCode.dir/2433._Find_The_Original_Array_of_Prefix/main.cpp.o
+build LeetCode: CXX_EXECUTABLE_LINKER__LeetCode_Debug CMakeFiles/LeetCode.dir/2942._Find_Words_Containing_Character/main.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
   OBJECT_DIR = CMakeFiles/LeetCode.dir
   POST_BUILD = :
