@@ -1,12 +1,13 @@
 # ninja log v6
-3	397	1735393420868846211	CMakeFiles/LeetCode.dir/1470._Shuffle_the_Array/main.cpp.o	e156ddb85d626b3a
-1	535	1735916871262770863	CMakeFiles/LeetCode.dir/2418._Sort_the_People/main.cpp.o	99c6f98c19fab72a
 5	359	1735313354650160863	CMakeFiles/MyProject.dir/1930._Build_Array_from_Permutation/main.cpp.o	8159be79a7c3b31e
-3	375	1735399341897346173	CMakeFiles/LeetCode.dir/2433._Find_The_Original_Array_of_Prefix/main.cpp.o	63810ad91d09a796
+1	535	1735916871262770863	CMakeFiles/LeetCode.dir/2418._Sort_the_People/main.cpp.o	99c6f98c19fab72a
+3	397	1735393420868846211	CMakeFiles/LeetCode.dir/1470._Shuffle_the_Array/main.cpp.o	e156ddb85d626b3a
 0	359	1735570434279911483	CMakeFiles/LeetCode.dir/3264._Final_Array_State_After_K_Multiplication_Operations/main.cpp.o	6abc66a45aaa2d54
+3	375	1735399341897346173	CMakeFiles/LeetCode.dir/2433._Find_The_Original_Array_of_Prefix/main.cpp.o	63810ad91d09a796
 2	328	1735311451780022440	CMakeFiles/MyProject.dir/1929.Concatenation_of_Array/main.cpp.o	3327c34ec9bf0ea8
-1	84	1736523850156882575	build.ninja	518b7f958f826e88
-537	585	1735916871798471633	LeetCode	20de144237e6591c
-3	489	1735483602944999510	CMakeFiles/LeetCode.dir/2942._Find_Words_Containing_Character/main.cpp.o	bfea64f444939f55
+1	84	1736689621011529592	build.ninja	518b7f958f826e88
 0	395	1736524021220619245	CMakeFiles/LeetCode.dir/1720._Decode_XORed_Array/main.cpp.o	a5b3c06055b738e7
 397	464	1736524021616985770	LeetCode	50dca2b71fb694c2
+3	489	1735483602944999510	CMakeFiles/LeetCode.dir/2942._Find_Words_Containing_Character/main.cpp.o	bfea64f444939f55
+1	486	1736689640904581551	CMakeFiles/LeetCode.dir/2545._Sort_the_Students_by_Their_Kth_Score/main.cpp.o	3faabf213e632e1c
+488	536	1736689641391419694	LeetCode	5fb263f87d3a4eb8
